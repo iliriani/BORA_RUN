@@ -51,6 +51,6 @@ To run this project, ensure you have the following installed:
 
 4. **Access the Application**:
    - Open a browser and navigate to http://localhost:8080 (or the configured port).
-   - If Swagger is enabled, API documentation may be available at [http://localhost:8080/swagger-ui.html](http://localhost:8080/v2/api-docs)
+   - If Swagger is enabled, API documentation may be available at [http://localhost:8080/v2/api-docs](http://localhost:8080/v2/api-docs)
 
 For more detailed information (source, documentation, etc.) check the [BORA repository](https://github.com/iliriani/BORA_Ecore)
